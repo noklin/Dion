@@ -1,0 +1,7 @@
+{ 
+	"name" : "b2blkLoginPage"
+	,"type" : "html"
+	,"scopes" : ["global"]
+	,"queries" : ["comp.name=awaitTest"] 
+	,"html" : "<div><b>Hello!!</div>"
+}
